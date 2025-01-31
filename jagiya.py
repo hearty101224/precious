@@ -1,1 +1,1 @@
-print("jagiya")
+print("jagiya pretty")
